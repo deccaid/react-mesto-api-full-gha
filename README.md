@@ -5,7 +5,7 @@ react-mesto-api-full
 
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/deccaid/mesto15
+Адрес репозитория: https://github.com/deccaid/react-mesto-api-full-gha.git
 
 Ссылки на проект
 IP 158.160.144.50
