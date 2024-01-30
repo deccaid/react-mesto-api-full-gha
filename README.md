@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.144.50
 
-Frontend https://...
+Frontend http://decaid.nomoredomainsmonster.ru
 
-Backend https://...
+Backend  http://api.decaid.nomoredomainsmonster.ru
