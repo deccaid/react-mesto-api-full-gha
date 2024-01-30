@@ -5,7 +5,7 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: [https://github.com/...](https://github.com/deccaid/mesto15.git)
+Адрес репозитория: http://decaid.nomoredomainsmonster.ru/
 
 ## Ссылки на проект
 
