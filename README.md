@@ -1,16 +1,15 @@
 [![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
-# react-mesto-api-full
-Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
-  
+react-mesto-api-full
+Репозиторий для приложения проекта Mesto, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории backend/, а фронтенд - в frontend/.
+
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/deccaid/mesto15.git
+Адрес репозитория: https://github.com/deccaid/mesto15
 
-## Ссылки на проект
+Ссылки на проект
+IP 158.160.144.50
 
-IP-адрес 158.160.144.50
+Frontend https://decaid.nomoredomainsmonster.ru
 
-Frontend http://decaid.nomoredomainsmonster.ru
-
-Backend  http://api.decaid.nomoredomainsmonster.ru
+Backend https://api.decaid.nomoredomainsmonster.ru
