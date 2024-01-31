@@ -10,6 +10,6 @@ react-mesto-api-full
 Ссылки на проект
 IP 158.160.144.50
 
-Frontend http://decaid.nomoredomainsmonster.ru/
+Frontend https://decaid.nomoredomainsmonster.ru/
 
-Backend http://api.decaid.nomoredomainsmonster.ru/
+Backend https://api.decaid.nomoredomainsmonster.ru/
