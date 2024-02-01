@@ -3,11 +3,11 @@ react-mesto-api-full
 
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/deccaid/react-mesto-api-full-gha/
+Адрес репозитория: https://github.com/FedenevI/react-mesto-api-full-gha
 
 Ссылки на проект
-IP-адрес 158.160.144.50
+IP 158.160.144.50
 
-Frontend https://decaid.nomoredomainsmonster.ru
+Frontend https://decaid.nomoredomainsmonster.ru/
 
-Backend https://api.decaid.nomoredomainsmonster.ru
+Backend https://api.decaid.nomoredomainsmonster.ru/
