@@ -12,6 +12,3 @@ Frontend https://decaid.nomoredomainsmonster.ru/
 
 Backend https://api.decaid.nomoredomainsmonster.ru/
 
-
-
-ИЗВИНИТЕ,СЛУЧАЙНО НАЖАЛ ОТПРАВИТЬ!!!!!!!!!!!!!!!!!!!!!!!!
